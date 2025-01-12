@@ -1,7 +1,7 @@
 # face-recognition-by-hfut
 2025 HFUT Multivariate Analysis Homework by lzy
 
-This is the course assignment for Multivariate Data Analysis in the fall of 2024 at the School of Instrumentation Science and Optoelectronic Engineering, Hefei University of Technology, written by ZiYu Liu.
+This is the course assignment for Multivariate Data Analysis in the fall of 2024 at the School of Instrumentation Science and Optoelectronic Engineering, Hefei University of Technology, written by Ziyu Liu.
 Acknowledgments go to Professors Rencheng Song and Haolin Zhan for their guidance.
 The following references were consulted:
 1.	Ho, H. T., Nguyen, L. V., Le, T. H. T. & Lee, O. J. Face detection using eigenfaces: a comprehensive review. IEEE Access (2024) doi:10.1109/ACCESS.2024.3435964.
